@@ -1,0 +1,3 @@
+nomeTeste,e-mail,password,nomeUsuario,resultado
+loginValido,leste@teste.com,123456,Mateus Leste,positivo
+loginInvalido,leste@teste.com,teste123,Mateus Leste,negativo
